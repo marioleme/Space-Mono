@@ -5,7 +5,7 @@ const SECTION_VIDEO =
   'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260622_092455_089c54f8-3b03-4966-9df1-e9746063d0ef.mp4';
 
 const TEXT =
-  'Uma interface neural de IA construída sobre a arquitetura do sistema nervoso humano. Mario Goncalves traduz a atividade sináptica em inteligência computacional. Cada sinal se torna mensurável, estruturado e visível. Reconstrói continuamente o estado interno como um mapa neural dinâmico. O ruído biológico é filtrado em padrões cognitivos acionáveis.';
+  'Olá, me chamo Mario Gonçalves e possuo sólida trajetória como Desenvolvedor React. Ao longo da minha carreira, especializei-me em React, HTML5, CSS3 e JavaScript, com foco na entrega de interfaces responsivas, semânticas e pixel-perfect.Domino ferramentas como Visual Studio Code e Cloud, sempre direcionando minha atuação para a conquista de grandes resultados. Busco atuar em ambientes que utilizem React integrado ao ecossistema Salesforce, onde minha expertise em React possa agregar valor e potencializar os objetivos da organização. Meu objetivo é aplicar minhas competências técnicas para gerar impacto real ,  Sigo à disposição para uma conversa mais detalhada.';
 
 export default function CinematicText() {
   const ref = useRef<HTMLDivElement>(null);
